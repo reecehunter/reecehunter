@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reecehunter
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React
+- 🏰 I'm working on building a unique and exciting portfolio
+- 🧠 Fun fact: I love RPG games and world building
