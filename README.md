@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on mastering JavaScript
 - 🏰 I'm working on building a unique and exciting portfolio
-- 🧠 Fun fact: I love creating things that people will find useful
+- 🧠 Fun fact: I'm interested in Blockchain technology
