@@ -24,7 +24,7 @@ My name is Reece Hunter and I'm a software developer. I was born and raised in t
 - Minecraft server management
 
 # 📊 GitHub Stats
-[![Reece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reecehunter&hide=issues&count_private=true&show_icons=true)](https://github.com/reecehunter)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecehunter&hide=solidity&layout=compact)](https://github.com/reecehunter)
+[![Reece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reecehunter&hide=issues&count_private=true&show_icons=true)](https://github.com/reecehunter) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecehunter&hide=solidity&layout=compact)](https://github.com/reecehunter)
 <a href="https://github.com/reecehunter/youtube">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=youtube" />
 </a>
