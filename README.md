@@ -29,5 +29,5 @@ My name is Reece Hunter and I'm a software developer. I was born and raised in t
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=youtube" />
 </a>
 <a href="https://github.com/reecehunter/homes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=homes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=spigot-homes" />
 </a>
