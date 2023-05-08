@@ -29,6 +29,3 @@ My name is Reece Hunter and I'm a software developer. I was born and raised in t
 <a href="https://github.com/reecehunter/youtube">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=youtube" />
 </a>
-<a href="[https://github.com/reecehunter/homes](https://github.com/reecehunter/Drop-Table-Simulator)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=Drop-Table-Simulator" />
-</a>
