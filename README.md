@@ -17,6 +17,8 @@ My name is Reece Hunter and I'm a software developer. I was born and raised in t
 ![](https://img.shields.io/badge/Code-Java-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/Framework-React-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Framework-Express-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Framework-Flask-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 # 👀 Passions & Interests
 - Gaming
