@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/RzBliMf.png)](https://github.com/reecehunter)
+[![Header](https://i.imgur.com/ktGSmvW.png)](https://github.com/reecehunter)
 
 # 👋 Hello, visitor!
 My name is Reece Hunter and I'm a software developer. I was born and raised in the SF Bay Area and am now located in American Fork, Utah. You can find me on <a href="https://linkedin.com/in/reecehunt3r" target="_blank" rel="noreferrer" style="color:#785c3b;">LinkedIn</a>.
