@@ -33,10 +33,6 @@ My name is Reece Hunter and I'm a software developer. I was born and raised in t
 
 🟡 Running
 
-🟡 Content creation
-
-🟡 Minecraft server management
-
 # 📊 GitHub Stats
 <a href="https://github.com/reecehunter/minelist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=minelist" />
