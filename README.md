@@ -1,42 +1,12 @@
-[![Header](https://i.imgur.com/ktGSmvW.png)](https://github.com/reecehunter)
+# 👋 Hello
+I'm a full-stack developer mainly using React & Tailwind for frontend, NodeJS & Express backend, and (MySQL || MongoDB || DynamoDB) & Redis databases. I also have some experience with Java and Python. That is just what I often use. I learn whatever is needed for the task at hand.
 
-# 👋 Hello, visitor!
-My name is Reece Hunter and I'm a software developer. I was born and raised in the SF Bay Area and am now located in American Fork, Utah. You can find me on <a href="https://linkedin.com/in/reecehunt3r" target="_blank" rel="noreferrer" style="color:#785c3b;">LinkedIn</a>.
+# 🚀 Current Interests
+I recently found out about [Nostr](https://nostr.com/) and made my first ever [contribution](https://github.com/verbiricha/habla.news/pull/133) the day I learned about the protocol. I'm currently learning more about the protocol before I start my own project.
 
-# 🔧 Technologies and Tools
-![](https://img.shields.io/badge/Editor-VS_Code-d6a780?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-d6a780?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+Nostr Pubkey: npub1m5qvj2wj5t436tzvgvavturclnx6xwuv7w0gwquvmqjawffqc2usl6asqn
 
-![](https://img.shields.io/badge/Code-JavaScript-d3d1a9?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-HTML-d3d1a9?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-CSS-d3d1a9?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Python-d3d1a9?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Java-d3d1a9?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+I've also started building some projects on AWS for scalability, which has been fun.
 
-![](https://img.shields.io/badge/Framework-React-a08e62?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Framework-Express-a08e62?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Framework-Flask-a08e62?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/Database-MySQL-785c3b?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Database-MongoDB-785c3b?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Database-Redis-785c3b?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/AWS-S3-d8dccb?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/AWS-CloudFront-d8dccb?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-# 👀 Passions & Interests
-🟡 Learning
-
-🟡 Coding
-
-🟡 Gaming
-
-🟡 Running
-
-# 📊 GitHub Stats
-<a href="https://github.com/reecehunter/minelist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=minelist" />
-</a>
-<a href="https://github.com/reecehunter/youtube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reecehunter&repo=youtube" />
-</a>
+# 📬 Get In Touch
+If you want to work with me, or contact me about anything else, message me on [Telegram](https://t.me/reecehunt3r), or [Email](mailto:heecerunter+github@gmail.com).
