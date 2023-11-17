@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋 Hello There
 I'm a full-stack developer mainly using React & Tailwind for frontend, NodeJS & Express backend, and (MySQL || MongoDB || DynamoDB) & Redis databases. I also have some experience with Java and Python. That is just what I often use. I learn whatever is needed for the task at hand.
 
 # 🚀 Current Interests
