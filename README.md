@@ -7,6 +7,9 @@ I'm a full-stack web developer mainly using React && Tailwind for frontend, Node
 - Learning about building scalable applications with AWS.
 
 # 📬 Get In Touch
-If you want to work with me, or contact me about anything else, message me on [Telegram](https://t.me/reecehunt3r), or [Email](mailto:heecerunter+github@gmail.com).
+Want to work with me? Have questions?
+- 💬 [Telegram](https://t.me/reecehunt3r)
+- 📩 [Email](mailto:heecerunter+github@gmail.com)
+- 🦃 [Nostr](https://njump.me/npub1m5qvj2wj5t436tzvgvavturclnx6xwuv7w0gwquvmqjawffqc2usl6asqn)
 
-My Nostr pubkey: npub1m5qvj2wj5t436tzvgvavturclnx6xwuv7w0gwquvmqjawffqc2usl6asqn
+Shoot me a message.
