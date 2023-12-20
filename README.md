@@ -1,5 +1,5 @@
 # 👋 Hello There
-I'm a full-stack web developer located in Utah. I love building web applications using React + Chakra UI and AWS Amplify + Cognito. That's just what I often use. I learn whatever is needed.
+I'm a full-stack web developer located in Utah. I love building web applications using React + Chakra UI and AWS backend. That's just what I often use. I learn whatever is needed.
 
 # 🚀 Activity
 - Building [Valet Flow](https://valetflow.com), management software for valet trash businesses.
