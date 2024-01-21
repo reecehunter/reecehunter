@@ -10,6 +10,5 @@ I'm a full-stack web developer located in Utah. I love building web applications
 Want to work with me? Have questions?
 - 📩 [Email](mailto:heecerunter+github@gmail.com)
 - 💬 [Telegram](https://t.me/reecehunt3r)
-- 🦃 [Nostr](https://njump.me/npub1m5qvj2wj5t436tzvgvavturclnx6xwuv7w0gwquvmqjawffqc2usl6asqn)
 
 Shoot me a message.
