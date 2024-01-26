@@ -1,5 +1,5 @@
 # 👋 Hello There
-I'm a full-stack web and Java developer insterested in developing scalable applications.
+I'm a full-stack web and Java developer interested in developing scalable applications for users.
 
 # 🚀 Activity
 - Building Nexus API: an API that allows you to connect multiple Minecraft servers together seamlessly and easily write your own addon plugins.
