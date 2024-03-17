@@ -1,5 +1,5 @@
 # 👋 Hello There
-I'm a full-stack web and Java developer interested in developing scalable applications for users.
+I'm a full-stack web and Java developer interested in developing scalable, user-facing applications.
 
 # 🚀 Activity
 - Building Nexus Core: an modular Minecraft plugin API which helps you with cross-server communication via Redis pub/sub and provides an easy-to-use API to create your on add-ons.
