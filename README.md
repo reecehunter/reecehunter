@@ -1,10 +1,10 @@
 # 👋 Hello There
-I'm a full-stack web and Java developer interested in developing scalable, user-facing applications.
+I'm a full-stack web developer interested in developing scalable, user-facing applications.
 
 # 🚀 Activity
-- Learning Rust
-- Building [Signstr](https://github.com/reecehunter/signstr), an open-source chrome extension for Nostr built to contain everything you need when navigating Nostr clients.
-- Contributing to other open-source projects.
+- Building web applications.
+- Mastering SEO.
+- Contributing to open-source projects.
 
 # 📬 Get In Touch
 Want to work with me? Have questions?
