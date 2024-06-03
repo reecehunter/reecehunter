@@ -4,7 +4,6 @@ I'm a full-stack web developer interested in developing scalable, user-facing ap
 # 🚀 Activity
 - Building web applications.
 - Messing around with AI.
-- Mastering SEO.
 - Contributing to open-source projects.
 
 # 📬 Get In Touch
