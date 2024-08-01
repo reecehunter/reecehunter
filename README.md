@@ -1,10 +1,5 @@
 # 👋 Hello There
-I'm a full-stack web developer interested in developing scalable, user-facing applications.
-
-# 🚀 Activity
-- Building web applications.
-- Messing around with AI.
-- Contributing to open-source projects.
+I'm building web applications.
 
 # 📬 Get In Touch
 Want to work with me? Have questions?
