@@ -1,9 +1,10 @@
 # 👋 Hello there
 I'm a self taught developer with experience creating web applications. I'm currently working on learning C and loving it.
 
-# 🚀 I'm working on
-- [Cloud Client](https://cloudclient.net).
-- [Learn C](https://github.com/reecehunter/learn-c).
+# 🚀 I'm currently interested in
+- Laravel.
+- Docker.
+- Learning C.
 - Learning Mandarin (你好).
 
 # 📬 Get in touch
