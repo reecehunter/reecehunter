@@ -1,5 +1,5 @@
 # 👋 Hello there
-I'm a self taught developer with experience creating web applications. I'm currently working on learning C and loving it.
+I'm a self taught developer with experience creating web applications using React/NextJS. I'm now learning about Laravel which I am enjoying.
 
 # 🚀 I'm currently interested in
 - Laravel.
