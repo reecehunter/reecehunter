@@ -1,10 +1,9 @@
 # 👋 Hello there
-I'm a self taught developer with experience creating web applications using React/NextJS. I'm now learning about Laravel which I am enjoying.
+I'm a self taught developer with experience creating web applications using React/NextJS.
 
 # 🚀 I'm currently interested in
-- Laravel.
+- React native.
 - Docker.
-- Learning C.
 - Learning Mandarin (你好).
 
 # 📬 Get in touch
