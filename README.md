@@ -1,9 +1,13 @@
-# 👋 Hey, I'm Reece Hunter
+# 👋 Hi, I'm Reece Hunter  
 
-I'm a full-stack web developer. I build websites and web apps mostly with TypeScript, React/NextJS, and Node.
+I'm a self-taught developer who’s been coding since I was a kid.  
+These days, I focus on web development and run my own agency, (Hunter Web Designs)[https://hunterwebdesigns.com].  
 
-## 📬 Let's Connect
-Interested in collaborating or have questions? Feel free to reach out!
-- 📧 **Email**: [reecehunter@duck.com](mailto:reecehunter@duck.com)
-- 🌐 **Portfolio**: [https://reecehunter.dev](https://reecehunter.dev)
-- 💼 **LinkedIn**: [https://linkedin.com/in/reecehunt3r](https://linkedin.com/in/reecehunt3r)
+### 🌱 What I’m into
+- Clean, modern front-end development
+- Full-stack projects that solve real problems
+- Always learning and refining my craft
+
+### 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/reecehunter)  
+- [Portfolio Website](https://reecehunter.dev)  
