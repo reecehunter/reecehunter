@@ -10,5 +10,5 @@ These days, I focus on web development and run my own agency, [Hunter Web Design
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/reecehunter)
-- [Portfolio Website](https://reecehunter.dev)
 - [Hunter Web Designs](https://hunterwebdesigns.com)
+- [Portfolio Website](https://reecehunter.dev)
