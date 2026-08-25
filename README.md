@@ -1,2 +1,4 @@
-# 👋 Hello, I'm Reece
-I'm a college student making the career transition from Web Development to Electrical Engineering.
+Hello, I am:
+- Reece
+- EE junior @ SJSU interested in memory
+- R&D Engineer, Advanced Memory Development @ Sandisk
