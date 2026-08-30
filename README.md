@@ -1,4 +1,4 @@
 Hello, I am:
 - Reece
-- EE junior @ SJSU interested in memory
-- R&D Engineer, Advanced Memory Development @ Sandisk
+- EE junior @ SJSU
+- R&D Engineering Intern, Advanced Memory Development @ Sandisk
